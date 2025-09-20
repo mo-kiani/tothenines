@@ -21,4 +21,6 @@ A business for booking cleaning services and potentially other services in the f
 - [ ] Set up React TS project with Vite
 - [ ] Set up Figma Project
 - [ ] Set up dev environment setup scripts
+- [ ] Set up email integration
+- [ ] Set up Stripe payment integration
 - [ ] Document everything so far

@@ -8,6 +8,7 @@ A business for booking cleaning services and potentially other services in the f
     - [ ] Set up NGINX over HTTP with Docker Compose
     - [ ] Set up Deployment Pipeline
     - [ ] Set up SSL/TLS for HTTPS and redirect HTTP
+    - [ ] Set up simple rate limiting
 - [ ] Set up MySQL
 - [ ] Set up Django Project
     - [ ] Install Django
